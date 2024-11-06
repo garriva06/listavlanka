@@ -1,1 +1,8 @@
 
+{
+  "whitelist": [
+    "Player1",
+    "",
+    "Player3"
+  ]
+}
